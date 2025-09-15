@@ -1,0 +1,40 @@
+[
+  {
+    "id": "p1",
+    "name": "777 Men\u2019s premium tee",
+    "description": "Camiseta premium 777",
+    "price": 37.77,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "image_url": "https://r777ch.com/path/to/777_mens_premium_tee.jpg",
+    "stock": 50,
+    "category": "Camisetas"
+  },
+  {
+    "id": "p2",
+    "name": "blood 777 hoodie",
+    "description": "Hoodie blood 777",
+    "price": 77.77,
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "image_url": "https://r777ch.com/path/to/blood_777_hoodie.jpg",
+    "stock": 30,
+    "category": "Polerones"
+  },
+  {
+    "id": "p3",
+    "name": "Bucket Hat",
+    "description": "Gorro Bucket Hat 777",
+    "price": 37.77,
+    "sizes": null,
+    "image_url": "https://r777ch.com/path/to/bucket_hat.jpg",
+    "stock": 40,
+    "category": "Accesorios"
+  }
+]
